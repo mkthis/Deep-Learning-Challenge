@@ -1,1 +1,3 @@
 # Deep-Learning-Challenge
+
+In this assignment, the Alphabet Soup nonprofit foundation wants to create an algorithm which predicts which of their nonprofit applicants for funding will be successful in use of their funds. Using deep learning and neural networks, a model was compiled, trained, and evaluated a total of four times. While none of the models achieved a 75% accuracy, further modeling could include increasing neurons in each hidden layer, adding hidden layers based on additional features added to the model, and using another model, such as Random Forest Classifier, to produce 75% accuracy in the algorithm. 
